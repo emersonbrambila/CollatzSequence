@@ -1,0 +1,13 @@
+C:\Projetos\leanwork\atividade_1\Collatz Sequence\bin\Debug\netcoreapp3.1\Collatz Sequence.exe
+C:\Projetos\leanwork\atividade_1\Collatz Sequence\bin\Debug\netcoreapp3.1\Collatz Sequence.deps.json
+C:\Projetos\leanwork\atividade_1\Collatz Sequence\bin\Debug\netcoreapp3.1\Collatz Sequence.runtimeconfig.json
+C:\Projetos\leanwork\atividade_1\Collatz Sequence\bin\Debug\netcoreapp3.1\Collatz Sequence.runtimeconfig.dev.json
+C:\Projetos\leanwork\atividade_1\Collatz Sequence\bin\Debug\netcoreapp3.1\Collatz Sequence.dll
+C:\Projetos\leanwork\atividade_1\Collatz Sequence\bin\Debug\netcoreapp3.1\Collatz Sequence.pdb
+C:\Projetos\leanwork\atividade_1\Collatz Sequence\obj\Debug\netcoreapp3.1\Collatz Sequence.csprojAssemblyReference.cache
+C:\Projetos\leanwork\atividade_1\Collatz Sequence\obj\Debug\netcoreapp3.1\Collatz Sequence.AssemblyInfoInputs.cache
+C:\Projetos\leanwork\atividade_1\Collatz Sequence\obj\Debug\netcoreapp3.1\Collatz Sequence.AssemblyInfo.cs
+C:\Projetos\leanwork\atividade_1\Collatz Sequence\obj\Debug\netcoreapp3.1\Collatz Sequence.csproj.CoreCompileInputs.cache
+C:\Projetos\leanwork\atividade_1\Collatz Sequence\obj\Debug\netcoreapp3.1\Collatz Sequence.dll
+C:\Projetos\leanwork\atividade_1\Collatz Sequence\obj\Debug\netcoreapp3.1\Collatz Sequence.pdb
+C:\Projetos\leanwork\atividade_1\Collatz Sequence\obj\Debug\netcoreapp3.1\Collatz Sequence.genruntimeconfig.cache
